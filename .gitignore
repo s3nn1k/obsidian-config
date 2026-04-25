@@ -1,3 +1,4 @@
 workspace.json
 workspace-mobile.json
 .DS_Store
+plugins/obsidian-git/obsidian_askpass.sh
